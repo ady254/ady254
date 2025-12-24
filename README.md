@@ -15,10 +15,11 @@
 ---
 
 ## 📌 Featured Projects
-- **AI Course Platform** – Wallet & coin-based purchase system  
-- **Islamic AI Assistant** – Quran & Hadith based Q&A system  
-- **E-commerce Platform** – Payments, order tracking & admin panel  
-
+- 🏋️ Gym Subscription Platform
+- 🛒 E-commerce Web Platform
+- 🚗 Vehicle Rental Booking System
+- 🏫 Education Platform Website
+- 🦷 Dental Clinic Website
 ---
 
 ## 🎯 What I’m Focused On

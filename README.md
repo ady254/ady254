@@ -1,4 +1,37 @@
-## Hi there 👋
+# Hi, I'm Adnan Ahmad 👋
+
+🚀 Full-Stack Developer | AI & Automation Enthusiast  
+🎓 Computer Science Engineering Student  
+💡 I build real-world web applications and AI-powered systems
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, MongoDB  
+**AI:** Python, OpenAI APIs  
+**Tools:** Git, GitHub, Docker, Postman, AWS
+
+---
+
+## 📌 Featured Projects
+- **AI Course Platform** – Wallet & coin-based purchase system  
+- **Islamic AI Assistant** – Quran & Hadith based Q&A system  
+- **E-commerce Platform** – Payments, order tracking & admin panel  
+
+---
+
+## 🎯 What I’m Focused On
+- Building scalable full-stack applications  
+- AI automation & intelligent systems  
+- Writing clean, production-ready code  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/adnanahmad-innvox/
+- Email: itsadnanahmad5@gmail.com
+
 
 <!--
 **ady254/ady254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

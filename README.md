@@ -7,10 +7,11 @@
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, MongoDB  
+**Programming language:** Python
+**Frontend:** typescript,javascript Tailwind CSS  
+**Backend:** fastapi, Node.js, Express, MongoDB  
 **AI:** Python, OpenAI APIs  
-**Tools:** Git, GitHub, Docker, Postman, AWS
+**Tools:** Git, GitHub, AWS
 
 ---
 

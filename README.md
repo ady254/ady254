@@ -10,8 +10,8 @@
 **Programming language:** Python
 **Frontend:** typescript,javascript Tailwind CSS  
 **Backend:** fastapi, Node.js, Express, MongoDB  
-**AI:** Python, OpenAI APIs  
-**Tools:** Git, GitHub, AWS
+**AI:** Python, OpenAI APIs 
+**Tools:** Git, GitHub, Google Cloud Platform (GCP)
 
 ---
 

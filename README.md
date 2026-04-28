@@ -16,11 +16,9 @@
 ---
 
 ## 📌 Featured Projects
-- 🏋️ Gym Subscription Platform
-- 🛒 E-commerce Web Platform
-- 🚗 Vehicle Rental Booking System
-- 🏫 Education Platform Website
-- 🦷 Dental Clinic Website
+- Meet v3: AI Calling (SaaS)
+- 🏫 Education Platform Website (SaaS)
+-  🛒 E-commerce Web Platform
 ---
 
 ## 🎯 What I’m Focused On

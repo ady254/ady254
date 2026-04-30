@@ -7,12 +7,12 @@
 ---
 
 ## 🛠 Tech Stack
-**Programming language:** Python
-**Frontend:** typescript,javascript Tailwind CSS  
-**Backend:** fastapi, Node.js, Express, MongoDB  
-**AI:** Python, OpenAI APIs 
-**Tools:** Git, GitHub, Google Cloud Platform (GCP)
-
+- Languages: Python, TypeScript
+- Frontend Development: Next.js (React), Tailwind CSS
+- Backend Development: FastAPI, Node.js, Express.js
+- Databases: PostgreSQL
+- Cloud & DevOps: Docker, Terraform, Google Cloud Platform (GCP)
+- Version Control & Collaboration: Git, GitHub
 ---
 
 ## 📌 Featured Projects

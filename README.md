@@ -1,26 +1,24 @@
 # Hi, I'm Adnan Ahmad 👋
 
-🚀 Full-Stack Developer | AI & Automation Enthusiast  
-🎓 Computer Science Engineering Student  
+🚀 SDE | DSA | CS | LLD
+🎓 Computer Science   
 💡 I build real-world web applications and AI-powered systems
 
 ---
 
 ## 🛠 Tech Stack
 - Languages: Python, TypeScript
-- Frontend Development: Next.js (React), Tailwind CSS
-- Backend Development: FastAPI, Node.js, Express.js
+- Frontend Development: React
+- Backend Development: FastAPI
 - Databases: PostgreSQL
 - Cloud & DevOps: Docker, Terraform, Google Cloud Platform (GCP)
 - Version Control & Collaboration: Git, GitHub
 ---
 
 ## 📌 Featured Projects
-- Meet v3: AI Calling (SaaS)
-- 🏫 Education Platform Website (SaaS)
--  🛒 E-commerce Web Platform
----
 
+- Meet v3: AI Calling (SaaS)
+  
 ## 🎯 What I’m Focused On
 - Building scalable full-stack applications  
 - AI automation & intelligent systems  

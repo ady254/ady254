@@ -11,7 +11,7 @@
 - Frontend Development: React
 - Backend Development: FastAPI
 - Databases: PostgreSQL
-- Cloud & DevOps: Docker, Terraform, Google Cloud Platform (GCP)
+- Cloud & DevOps: Docker, Terraform, AWS
 - Version Control & Collaboration: Git, GitHub
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/adnanahmad-innvox/
+- LinkedIn: www.linkedin.com/in/adnanahmad-io
 - Email: itsadnanahmad5@gmail.com
 
 
